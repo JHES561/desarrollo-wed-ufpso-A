@@ -1,2 +1,5 @@
 # desarrollo-wed-ufpso-A
-Repositorio para alojar los proyectos de clase de la asignatura
+Repositorio publico para alojar los proyectos de la asignatura
+
+##proyecto 1
+Proyecto de repaso de conceptos de html, css y javascript.
